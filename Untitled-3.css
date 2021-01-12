@@ -7,9 +7,8 @@ body{
 }
 
 header img{
-	width: 1440px;
+	width: 100vw;
 	margin-bottom: 50px;
-	
 }
 .body{
 	margin-bottom: 10px;
