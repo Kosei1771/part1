@@ -17,7 +17,7 @@ header img{
 	margin-bottom: 40px;
 }
 .idList{
-	width: 70%;
+	width: 100%;
 display: flex;
 letter-spacing: -0.4em;
 word-spacing: -1em;
@@ -90,4 +90,7 @@ position: relative;
 	list-style: none;
 	margin-left: 10px;
 	margin-bottom: 20px;
+}
+h5{
+		width: 100vw;
 }
