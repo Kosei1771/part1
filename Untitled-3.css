@@ -3,8 +3,8 @@
 
 body{
 	min-width: 1024px;
-	font-family:"didact-gothic";
-	font-size: 20px;
+	font-family:'Hiragino Kaku Gothic ProN';
+	font-size: 23px;
 }
 
 .head1 img{
@@ -52,13 +52,13 @@ font-size: 0;
 }
 h2{
 padding: 4px 0 4px 10px;
-border-left: #5ed746 7px solid;
+border-left: #FCF753 7px solid;
 line-height: 1.6;
 margin: 45px 0 15px 0;
-font-size: 30px;
+font-size: 33px;
 }
 .kindof{
-font-size: 30px;
+font-size: 33px;
 text-align: left;
 padding: 8px;
 margin: 60px auto 15px auto;
@@ -101,7 +101,6 @@ position: relative;
 }
 .Ename{
 	font-size: 15px;
-	font-family: 'Roboto Condensed', sans-serif;
 	border-bottom: 1px solid #bebebe;
 	text-align: center;
 }
@@ -122,8 +121,9 @@ position: relative;
 	margin-bottom: 3px;
 }
 .line{
+font-weight: normal;
 text-align: left;
 padding: 8px;
 margin: 30px auto 15px auto;
-border-bottom: solid 2px #2119b7;
+border-bottom: solid 2px #5ed746;
 }
