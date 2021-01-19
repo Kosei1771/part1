@@ -5,6 +5,7 @@ body{
 	background:#C1C0C0;
 	min-width: 1024px;
 	font-family:"didact-gothic";
+	font-size: 20px;
 }
 
 .head1 img{
@@ -15,12 +16,13 @@ body{
 .head2 {
 background-color:black;
 width:100%;
-height:auto;
+height:50px;
 position:fixed;
 opacity: 0.75;
 }
 
 .header{
+	font-weight: lighter;
 	font-size: 20px;
 	color: white;
   	display: flex;
@@ -28,6 +30,7 @@ opacity: 0.75;
   	flex-wrap: wrap;
 	justify-content: space-around;
 	text-decoration: none;
+	margin-top: 4px;
 }
 
 .body{
@@ -53,10 +56,10 @@ h2{
 border-left: #FF8D3A 7px solid;
 line-height: 1.6;
 margin: 45px 0 15px 0;
-font-size: 20px;
+font-size: 30px;
 }
 .kindof{
-	font-size: 16px;
+	font-size: 19px;
 text-align: left;
 padding: 8px;
 margin: 30px auto 15px auto;
@@ -77,27 +80,28 @@ width: 10px;
 text-align: left;
 }
 .a img{
-	width: 150px;
+	width: 180px;
 height: auto;
 }
 .b img{
-	width: 150px;
+	width: 180px;
 height: auto;
 }
 
 .profileText{
 	display: table-cell;
-width: 134px;
+width: 200px;
 height: auto;
 vertical-align: bottom;
 position: relative;
 }
 .Jname{
-	font-size: 20px;
-	padding: 8px 0 25px 25px;
+	font-size: 25px;
+	text-align: center;
+	margin-bottom: 45px;
 }
 .Ename{
-	font-size: 11px;
+	font-size: 15px;
 	font-family: 'Roboto Condensed', sans-serif;
 	border-bottom: 1px solid #bebebe;
 	text-align: center;
@@ -112,8 +116,8 @@ position: relative;
 	margin-bottom: 20px;
 }
 .group{
-	margim-right: 50px;
-	margin-left: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 .kind{
 	margin-bottom: 3px;
