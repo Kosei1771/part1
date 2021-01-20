@@ -3,8 +3,8 @@
 
 body{
 	min-width: 1024px;
+	font-family:"Hiragino Kaku Gothic ProN","serif","sans-serif";
 	font-size: 23px;
-	font-family:'Hiragino Kaku Gothic ProN';
 }
 
 .head1 img{
